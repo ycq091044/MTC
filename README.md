@@ -6,7 +6,7 @@ contact Chaoqi Yang (chaoqiy2@illinois.edu, ycqsjtu@gmail.com) for any question.
 ```bibtex
 @inproceedings{yang2021mtc,
     title = {MTC: Multiresolution Tensor Completion from Partial and Coarse Observations},
-    author = {Yang, Chaoqi and Singh, Navjot and Xiao, Cao and Solomonik, Edgar and Sun, Jimeng},
+    author = {Yang, Chaoqi and Singh, Navjot and Xiao, Cao and Solomonik, Edgar and Qian, Cheng and Sun, Jimeng},
     booktitle = {Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) 2021},
     year = {2021}
 }
